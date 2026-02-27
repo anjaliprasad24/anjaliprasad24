@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Anjali 👋
 
-<!--
-**anjaliprasad24/anjaliprasad24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Learning JavaScript and Data Analytics 
+🚀 Building small interactive web projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- HTML
+- CSS
+- JavaScript(Basics)
+- C++
+- Python
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced JavaScript
+- Data Analysis
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/anjali-prasad-49131a1b2
