@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anjali Prasad</h1>
 <h3 align="center">Full Stack Developer | B.Tech CSE Student | Building Real-World Web Applications</h3>
 
-<p align="center">
-  <a href="https://github.com/anjaliprasad24">
-    <img src="https://komarev.com/ghpvc/?username=anjaliprasad24&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -79,18 +73,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=anjaliprasad24&theme=tokyo-night)
-
----
-
 ## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
