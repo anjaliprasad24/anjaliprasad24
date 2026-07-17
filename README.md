@@ -61,11 +61,6 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit)
 
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=anjaliprasad24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anjaliprasad24&theme=tokyonight)
 
