@@ -62,12 +62,6 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit)
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=anjaliprasad24&theme=tokyonight)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=anjaliprasad24&layout=compact&theme=tokyonight&count_private=true)
-
----
-
 ## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
